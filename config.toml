@@ -1,0 +1,14 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Akire Tech lTD."
+theme = "foundation-theme"
+contentdir = "content" 
+layoutdir = "layouts" 
+publishdir = "docs" 
+canonifyurls = true 
+MetaDataFormat = "toml"
+[indexes] 
+    category = "categories" 
+    tag = "tags" 
+[author] 
+    name = "your name here"
